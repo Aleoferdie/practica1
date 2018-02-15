@@ -50,6 +50,11 @@ html {
   -webkit-tap-highlight-color: transparent;
 }
 
+.sizer {
+  width: 400px;
+  height: 300px;
+}
+
 @-ms-viewport {
   width: device-width;
 }
